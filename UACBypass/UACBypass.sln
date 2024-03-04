@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UACBypass", "UACBypass.csproj", "{45456995-3076-4BB0-9B02-98C5AF111236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45456995-3076-4BB0-9B02-98C5AF111236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45456995-3076-4BB0-9B02-98C5AF111236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45456995-3076-4BB0-9B02-98C5AF111236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45456995-3076-4BB0-9B02-98C5AF111236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE35545-017A-4099-8B20-3F9D379E179A}
+	EndGlobalSection
+EndGlobal
